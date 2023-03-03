@@ -1,0 +1,69 @@
+.delicias{
+    display: block;
+    margin: auto;
+}
+
+.myDiv{
+    height:100px;
+    width: 30%;
+    display: flex;
+    margin:auto;
+    color: black
+}
+
+.libro{
+    position: relative;
+    display: inline-block;
+    background-color: #E9EBED;
+}
+
+.texto1{
+    position: absolute;
+    top: 235px;
+    left: 10%;
+    font-size: 12px;
+    color: #7E7F81;
+}
+
+.texto2{
+    position: static;
+    top: 100%;
+    right: 65%;
+    background-color: greenyellow;
+}
+
+.quesadilla{
+    font-size: 28px;
+    color: black;
+}
+.quesadillafoto{
+    height: 250px;
+}
+
+.quesadillafoto2{
+    height: 250px;
+}
+
+.huevos{
+    font-size: 28px;
+}
+
+.huevosfoto{
+    height: 250px;
+}
+
+.huevosfoto2{
+    height: 250px;
+}
+
+.spaghettis{
+    margin-right: 10px;
+}
+
+.spaghetti{
+    font-size: 28px;
+}
+
+.spaghettifoto{
+    height: 250px;
+}
